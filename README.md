@@ -26,3 +26,12 @@ Building projects while learning Cloud + AI to become a Cloud Engineer 🚀
 **What I learned:**
 - AI vs ML vs Deep Learning
 - 4 Azure AI Services: Vision, Speech, Language, Decision
+
+
+### Day 2: Computer Vision - 11 Aug 2026
+- [View my Day 2 notes](Day-2-Computer-Vision.md)
+
+**What I learned:**
+- Azure AI Vision can describe images and read text
+- Services: Image Analysis, Face API, OCR, Custom Vision
+- Used for accessibility and automation
