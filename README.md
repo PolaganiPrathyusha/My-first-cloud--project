@@ -35,3 +35,44 @@ Building projects while learning Cloud + AI to become a Cloud Engineer 🚀
 - Azure AI Vision can describe images and read text
 - Services: Image Analysis, Face API, OCR, Custom Vision
 - Used for accessibility and automation
+
+- ---
+
+## Day 3: GitHub Copilot
+
+**Date:** Aug 10, 2026
+**Focus:** Using AI to write code faster
+
+### What I Learned
+- **What is GitHub Copilot**: AI pair programmer that suggests code in real-time
+- **How it works**: Trained on public code, gives suggestions as you type
+- **Key Features**: 
+    - Code completions
+    - Chat to explain/debug code
+    - Works in VS Code, JetBrains, etc.
+
+### Hands-On
+- Used Copilot in Codespaces to generate a Python function
+- Used Copilot Chat to explain an error
+
+### Key Takeaway
+Copilot doesn't replace learning to code. It speeds up writing boilerplate and helps you learn patterns faster.
+
+---
+
+## Day 4: AI-900 - Computer Vision on Azure
+
+**Date:** Aug 12, 2026
+**Focus:** How Azure AI "sees" images and videos
+
+### What I Learned
+- **Computer Vision**: AI capability to interpret visual information
+- **Azure AI Vision**: Analyze images, OCR, object detection
+- **Azure AI Video Indexer**: Extract insights from videos
+- **Custom Vision**: Build custom image classification models
+
+### Common Use Cases
+Image analysis, text extraction from documents, facial detection, video analysis for retail/healthcare
+
+### Key Takeaway
+Azure provides pre-built Computer Vision APIs so we don’t have to train models from scratch.
